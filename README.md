@@ -6,3 +6,5 @@ it took me around three hours to complete the project where i was able to add 3 
 3. flipVerOrHori.
 
 i was able to run the program
+
+My Partner in today's lab is Qusai Tashtosh 
